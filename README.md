@@ -30,40 +30,41 @@ Email: `dengzitao888@163.com`
 
 ## Languages and Tools
 
-<table>
-  <tr>
-    <td align="center" width="25%"><b>Backend</b></td>
-    <td align="center" width="25%"><b>AI / Full-Stack</b></td>
-    <td align="center" width="25%"><b>Tools</b></td>
-    <td align="center" width="25%"><b>Exploring</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="28" height="28" />
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="28" height="28" />
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="28" height="28" />
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="28" height="28" />
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="28" height="28" />
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="28" height="28" />
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="28" height="28" />
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png" alt="LLM / API" width="28" height="28" />
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="28" height="28" />
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="28" height="28" />
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub" width="28" height="28" />
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux" width="28" height="28" />
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/bun/bun.png" alt="Bun" width="28" height="28" />
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="Agent Workflows" width="28" height="28" />
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" alt="OpenAI-compatible APIs" width="28" height="28" />
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="CLI Tooling" width="28" height="28" />
-    </td>
-  </tr>
-</table>
+**Backend**
+
+<p>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="28" height="28" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="28" height="28" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="28" height="28" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="28" height="28" />
+</p>
+
+**AI / Full-Stack**
+
+<p>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="28" height="28" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="28" height="28" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="28" height="28" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png" alt="LLM / API" width="28" height="28" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="28" height="28" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="28" height="28" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub" width="28" height="28" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux" width="28" height="28" />
+</p>
+
+**Exploring**
+
+<p>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/bun/bun.png" alt="Bun" width="28" height="28" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="Agent Workflows" width="28" height="28" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" alt="OpenAI-compatible APIs" width="28" height="28" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="CLI Tooling" width="28" height="28" />
+</p>
 
 ## Current Direction
 
