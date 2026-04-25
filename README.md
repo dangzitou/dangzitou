@@ -26,7 +26,8 @@
 
 *Right now, I am especially interested in backend development, distributed systems, full-stack AI applications, and turning frontier AI capabilities into usable products.*
 
-Email: dengzitao888@163.com
+✦ Email: dengzitao888@163.com  
+✦ Base: Guangzhou, China
 
 ## Languages and Tools
 
