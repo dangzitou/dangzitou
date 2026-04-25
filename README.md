@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Dang Zitou</h1>
-
 <p align="center">
-  Backend Developer | AI Full-Stack Builder | Frontier AI Enthusiast
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=400&width=500&lines=Hi%2C+I'm+Dang+Zitou;Backend+Developer;AI+Full-Stack+Products+Builder;Exploring+Frontier+AI" alt="Typing SVG" />
+  </a>
 </p>
 <p align="center">
   <a href="mailto:dengzitao888@163.com">
