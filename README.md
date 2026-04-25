@@ -32,39 +32,19 @@ Email: `dengzitao888@163.com`
 
 **Backend**
 
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="28" height="28" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="28" height="28" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="28" height="28" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="28" height="28" />
-</p>
+![Backend](https://skillicons.dev/icons?i=java,python,nodejs,spring&theme=dark)
 
 **AI / Full-Stack**
 
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="28" height="28" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="28" height="28" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="28" height="28" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png" alt="LLM / API" width="28" height="28" />
-</p>
+![AI / Full-Stack](https://skillicons.dev/icons?i=ts,js,react,graphql&theme=dark)
 
 **Tools**
 
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="28" height="28" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="28" height="28" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub" width="28" height="28" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux" width="28" height="28" />
-</p>
+![Tools](https://skillicons.dev/icons?i=docker,git,github,linux&theme=dark)
 
 **Exploring**
 
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/bun/bun.png" alt="Bun" width="28" height="28" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="Agent Workflows" width="28" height="28" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" alt="OpenAI-compatible APIs" width="28" height="28" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="CLI Tooling" width="28" height="28" />
-</p>
+![Exploring](https://skillicons.dev/icons?i=bun,ts,bash,githubactions&theme=dark)
 
 ## Current Direction
 
