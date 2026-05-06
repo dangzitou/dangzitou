@@ -53,3 +53,8 @@
 - Exploring AI full-stack applications and developer workflows
 - Following frontier AI progress and testing real product use cases
 - Making tools that are practical, local-first, and inspectable
+- Contributing to open source through automated agent workflows
+
+---
+
+*Last updated: 2026-05-06*
