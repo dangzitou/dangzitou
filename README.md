@@ -31,21 +31,8 @@
 
 ## Languages and Tools
 
-**Backend**
-
-![Backend](https://skillicons.dev/icons?i=java,python,nodejs,spring&theme=dark)
-
-**AI / Full-Stack**
-
-![AI / Full-Stack](https://skillicons.dev/icons?i=ts,js,react,graphql&theme=dark)
-
-**Tools**
-
-![Tools](https://skillicons.dev/icons?i=docker,git,github,linux&theme=dark)
-
-**Exploring**
-
-![Exploring](https://skillicons.dev/icons?i=bun,ts,bash,githubactions&theme=dark)
+![Languages](https://skillicons.dev/icons?i=java,go,py,ts,js&theme=dark)
+![Tools](https://skillicons.dev/icons?i=spring,docker,git,linux&theme=dark)
 
 ## Current Direction
 
@@ -57,4 +44,4 @@
 
 ---
 
-*Last updated: 2026-05-06*
+*Last updated: 2026-06-03*
