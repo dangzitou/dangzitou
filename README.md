@@ -15,6 +15,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://ghfind.com/u/dangzitou?ref=badge">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/ghfind-card-dark.svg" />
+      <img src="./assets/ghfind-card-light.svg" alt="GitHub Roast Score Card" width="440" />
+    </picture>
+  </a>
+</p>
+
 
 ---
 
