@@ -18,6 +18,11 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/dangzitou">
+    <img height="165" alt="GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=dangzitou&show_icons=true&include_all_commits=true&hide=contribs" />
+  </a>
+</p>
 ## About Me
 
 *I am a Computer Science student at Xiamen University, currently focused on backend engineering, AI full-stack development, and practical AI systems.*
@@ -41,12 +46,6 @@
 - Following frontier AI progress and testing real product use cases
 - Making tools that are practical, local-first, and inspectable
 - Contributing to open source through automated agent workflows
-
-<p align="center">
-  <a href="https://github.com/dangzitou">
-    <img height="165" alt="GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=dangzitou&show_icons=true&include_all_commits=true&hide=contribs&theme=dark" />
-  </a>
-</p>
 
 ---
 
