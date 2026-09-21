@@ -43,11 +43,9 @@
 - Contributing to open source through automated agent workflows
 
 <p align="center">
-  <a href="https://ghfind.com/u/dangzitou?ref=badge">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/ghfind-card-dark.svg" />
-      <img src="./assets/ghfind-card-light.svg" alt="GitHub Roast Score Card" width="440" />
-    </picture>
+  <a href="https://github.com/dangzitou">
+    <img height="165" alt="GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=dangzitou&show_icons=true&include_all_commits=true&hide=contribs#gh-light-mode-only" />
+    <img height="165" alt="GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=dangzitou&show_icons=true&include_all_commits=true&hide=contribs&theme=dark#gh-dark-mode-only" />
   </a>
 </p>
 
