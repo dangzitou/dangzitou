@@ -44,8 +44,7 @@
 
 <p align="center">
   <a href="https://github.com/dangzitou">
-    <img height="165" alt="GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=dangzitou&show_icons=true&include_all_commits=true&hide=contribs#gh-light-mode-only" />
-    <img height="165" alt="GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=dangzitou&show_icons=true&include_all_commits=true&hide=contribs&theme=dark#gh-dark-mode-only" />
+    <img height="165" alt="GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=dangzitou&show_icons=true&include_all_commits=true&hide=contribs&theme=dark" />
   </a>
 </p>
 
