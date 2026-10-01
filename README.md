@@ -20,12 +20,12 @@
 
 <p align="center">
   <a href="https://github.com/dangzitou">
-    <img height="140" alt="GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=dangzitou&show_icons=true&include_all_commits=true&hide=contribs" />
+    <img height="155" alt="GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=dangzitou&show_icons=true&include_all_commits=true&hide=contribs" />
   </a>
   <a href="https://ghfind.com/u/dangzitou?ref=badge">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/dangzitou?theme=dark&lang=zh" />
-      <img src="https://ghfind.com/api/card/mini/dangzitou?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="380" />
+      <img src="https://ghfind.com/api/card/mini/dangzitou?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="340" />
     </picture>
   </a>
 </p>
