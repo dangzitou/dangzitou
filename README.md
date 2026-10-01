@@ -1,34 +1,20 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3600&pause=200&center=true&width=500&lines=Hi%2C+I'm+Dang+Zitou;Backend+Developer;AI+Full-Stack+Products+Builder;Exploring+Frontier+AI" alt="Typing SVG" />
-  </a>
-</p>
-<p align="center">
-  <a href="mailto:dengzitao888@163.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://dangzitou.github.io">
-    <img src="https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog" />
-  </a>
-  <a href="https://github.com/dangzitou">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-
----
-
-<p align="center">
-  <a href="https://github.com/dangzitou">
-    <img height="155" alt="GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=dangzitou&show_icons=true&include_all_commits=true&hide=contribs" />
-  </a>
-  <a href="https://ghfind.com/u/dangzitou?ref=badge">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/dangzitou?theme=dark&lang=zh" />
-      <img src="https://ghfind.com/api/card/mini/dangzitou?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="340" />
-    </picture>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="57%" align="center">
+      <a href="https://github.com/dangzitou">
+        <img alt="GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=dangzitou&show_icons=true&include_all_commits=true&hide=contribs" />
+      </a>
+    </td>
+    <td width="43%" align="center">
+      <a href="https://ghfind.com/u/dangzitou?ref=badge">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/dangzitou?theme=dark&lang=zh" />
+          <img src="https://ghfind.com/api/card/mini/dangzitou?theme=light&lang=zh" alt="GitHub Roast 评分卡" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## About Me
 
