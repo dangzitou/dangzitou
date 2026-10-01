@@ -24,6 +24,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://ghfind.com/u/dangzitou?ref=badge">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/dangzitou?theme=dark&lang=zh" />
+      <img src="https://ghfind.com/api/card/mini/dangzitou?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+    </picture>
+  </a>
+</p>
+
 ## About Me
 
 *I am a Computer Science student at Xiamen University, currently focused on backend engineering, AI full-stack development, and practical AI systems.*
