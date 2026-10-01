@@ -1,11 +1,11 @@
 <table>
   <tr>
-    <td width="57%" align="center">
+    <td width="56.5%" align="center" style="border:none;padding:0">
       <a href="https://github.com/dangzitou">
         <img alt="GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=dangzitou&show_icons=true&include_all_commits=true&hide=contribs" />
       </a>
     </td>
-    <td width="43%" align="center">
+    <td width="43.5%" align="center" style="border:none;padding:0">
       <a href="https://ghfind.com/u/dangzitou?ref=badge">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/dangzitou?theme=dark&lang=zh" />
