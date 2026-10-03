@@ -32,6 +32,20 @@
 ![Languages](https://skillicons.dev/icons?i=java,go,py,ts,js&theme=dark)
 ![Tools](https://skillicons.dev/icons?i=spring,docker,git,linux&theme=dark)
 
+## Open Source
+
+**[keel-agent](https://github.com/dangzitou/keel-agent)** · a coding agent CLI that treats sessions as append-only event logs and completion as a verifiable contract (evidence + exit codes for CI). Zero runtime dependencies; OpenAI / Anthropic / Responses protocols.
+
+Merged contributions:
+
+- [TencentCloud/Octop](https://github.com/TencentCloud/Octop) (~6.5k ★, self-hosted multi-agent assistant) — 9 of 21 PRs merged, covering OAuth callback security, multi-agent failure semantics, backup import, and connector features
+- [TencentCloud/octop-harness](https://github.com/TencentCloud/octop-harness) (Octop's agent runtime) — streamed thinking block projection fix
+- [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) (~27.7k ★, agent memory hub) — fixes and features, incl. preserving Claude Code AGENTS.md instructions
+
+Under review: L1 memory usage-feedback reinforcement (retrieval practice + forgetting curve reranking), L1 evidence-chain maintenance in TencentDB-Agent-Memory; diagnostics export and parallel-task conflict preflight in [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill); bounded internal sub-agent batches in [apache/flink-agents](https://github.com/apache/flink-agents).
+
+I write up the engineering details on my blog: [dangzitou.github.io](https://dangzitou.github.io)
+
 ## Current Direction
 
 - Building stronger backend foundations
@@ -42,4 +56,4 @@
 
 ---
 
-*Last updated: 2026-10-01*
+*Last updated: 2026-10-04*
